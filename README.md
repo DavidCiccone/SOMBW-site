@@ -1,4 +1,4 @@
-# SOMBW-site
+# SOMBW-site (South of Main Block Watch)
 This is a site created as a volenteer for a local non-profit organization.
 
 To run the site open index.html.  Will run in most modern browsers.
